@@ -17,5 +17,5 @@ Hello, here is a sample of some of the work that I have completed this term for 
 - Find alternatives to continuous images tracking
 
 ## Links:
-- <linkedin.com/in/nowlenwebb/>
-- <github.com/NowlenWebb>
+- [LinkedIn](linkedin.com/in/nowlenwebb/)
+- [GitHub](github.com/NowlenWebb)
